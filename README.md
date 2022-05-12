@@ -8,14 +8,14 @@ The `train.py` is runnable simply with `python train.py`. However, you are respo
 
 ├── checkpoints <- Contains the <b>trained models </b> outputed into the folder<br/>
 ├── configs    # Configuration for specific models <br/>
-│   ├── ... <br/>
-│   └── default_config.py<br/>
+├   ├── ... <br/>
+├   └── default_config.py<br/>
 ├── loss<br/>
 ├── models   # Your pytorch model files currently not used <br/>
-│   ├── ch_mdl_dolg_efficientnet.py<br/>
-│   ├── ch_mdl_hybrid_transformer_2x.py<br/>
-│   ├── ch_mdl_hybrid_transformer_3x.py<br/>
-│   └── ch_mdl_hybrid_transformer.py<br/>
+├   ├── ch_mdl_dolg_efficientnet.py<br/>
+├   ├── ch_mdl_hybrid_transformer_2x.py<br/>
+├   ├── ch_mdl_hybrid_transformer_3x.py<br/>
+├   └── ch_mdl_hybrid_transformer.py<br/>
 ├── out<br/>
 ├── README.md<br/>
 ├── requirements.txt<br/>
