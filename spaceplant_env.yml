@@ -1,0 +1,13 @@
+name: spaceplant_env
+channels:
+  - pytorch
+
+dependencies:
+  - tqdm
+  - pytorch=1.4.0
+  - torchvision=0.5.0
+  - cudatoolkit=11.3
+  - pip:
+      - timm
+
+
