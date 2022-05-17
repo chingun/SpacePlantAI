@@ -21,22 +21,22 @@ The "save_name_xp" option is the name of the directory where the weights of the 
 
 You can check out the different options in the file cli.py.
 
-├── cli.py
-├── cuda_11.0.2_450.51.05_linux.run
-├── dense_resnet_main.py
-├── epoch.py
-├── LICENSE
-├── README.md
-├── results
-│   ├── xp1
-│   │   ├── xp1_weights_best_acc.tar
-│   │   └── xp1_weights.tar
-│   └── xp_earned
-│       ├── xp_earned_weights_best_acc.tar
-│       └── xp_earned_weights.tar
-├── spaceplant_env.yml
-├── utils.py
-└── vit_efficientnet.py
+├── cli.py<br/>
+├── cuda_11.0.2_450.51.05_linux.run<br/>
+├── dense_resnet_main.py<br/>
+├── epoch.py<br/>
+├── LICENSE<br/>
+├── README.md<br/>
+├── results<br/>
+│   ├── xp1<br/>
+│   │   ├── xp1_weights_best_acc.tar<br/>
+│   │   └── xp1_weights.tar<br/>
+│   └── xp_earned<br/>
+│       ├── xp_earned_weights_best_acc.tar<br/>
+│       └── xp_earned_weights.tar<br/>
+├── spaceplant_env.yml<br/>
+├── utils.py<br/>
+└── vit_efficientnet.py<br/><br/>
 
 
 
